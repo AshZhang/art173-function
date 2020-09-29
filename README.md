@@ -1,3 +1,5 @@
-# sound game part 1 : moving parts and looping sounds
+# art173-function
 
-finished sketch: https://socalledsound.github.io/sound-game-1-starter/
+A collection of random bouncing balls and sounds; exercise in using p5.js. https://ashzhang.github.io/art173-function/
+
+Assignment page: https://socalledsidefx.com/units/unit2/day10
